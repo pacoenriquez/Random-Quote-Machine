@@ -1,0 +1,38 @@
+#test {
+  background-color: #34495E;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#text {
+  font-family: 'Nanum Myeongjo', serif;
+  font-size: 20px;
+  padding: 10px;
+}
+#author {
+  font-family: 'Secular One', sans-serif;
+  font-size: 16px;
+  padding: 10px;
+  text-align: right;
+}
+#new-quote {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  padding: 10px;
+  float: right;
+}
+#tweet-quote {
+  padding: 10px;
+  float: left;
+}
+#quote-box {
+    background-color: #D7DBDD;
+    height: auto;
+    width: 80%;
+    padding: 20px;
+    border-radius: 15px;
+    border-width: thick;
+    border-color: #34495E;
+    border-style: groove;
+}
